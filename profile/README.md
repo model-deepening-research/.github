@@ -1,3 +1,5 @@
+# Model Deepening
+
 Model deepening denotes the process of transforming flat representations into multi-level models. A flat representation is characterized by at most two levels of classifications. Examples for flat representations include class-based object-oriented software code, database schemata with respective data values, conventional conceptual models created e.g. with UML. A multi-level model may contain an unbounded number of classification levels. Multi-level models have been argued to improve the reusability of models and integration among models.[^1] Though intended as generic contributions, much of the current work is tailored towards the multi-level-modeling language FMML<sup>x</sup>[^2], that is supported by the XModeler<sup>ML</sup>[^3]. 
 [^1]: Frank U (2022) Multi-Level Modeling: Cornerstones of a Rationale. Software and Systems Modeling 21:451–480
 [^2]: Frank U (2014) Multilevel Modeling: Toward a New Paradigm of Conceptual Modeling and Information Systems Design. Business and Information Systems Engineering 6(6):319–337
